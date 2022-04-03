@@ -8,7 +8,7 @@ Yaşam Beklentisi adlı uygulama kullanıcıdan 5 farklı tipde veri aldıktan s
 
 - GestureDetector Widget Kullanımı.
 - Slider Widget Kullanımı.
-- Outlined ve RotatedBox Widgetleri Kullanımı.
+- OutlinedButton ve RotatedBox Widgetleri Kullanımı.
 - Sayfalar Arası Geçiş (Navigator Kavramı).
 - Sayfalar Arası Veri Transferi.
 - Extract Widget ve Extract Method Kavramı.
