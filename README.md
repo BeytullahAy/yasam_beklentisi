@@ -1,19 +1,19 @@
-# YAŞAM BEKLENTİSİ
+# LIFE EXPECTANCY
 
 <img src="https://user-images.githubusercontent.com/81561442/161435416-30a7fc93-3592-4951-8e4f-15446639f4c3.png" width='600'>
 
-Yaşam Beklentisi adlı uygulama kullanıcıdan 5 farklı tipde veri aldıktan sonra yaptığı hesaplama sonucunda tahmini bir yaşam beklentisi süresi çıkartan bir Android işletim sistemleri için geliştirilmiş bir uygulamadır. 
+The application called Life Expectancy is an application developed for Android tablet systems that does not calculate an estimated life expectancy after obtaining 5 different types of data from the user. 
 
 ## İÇERİĞİ
 
-- GestureDetector Widget Kullanımı.
-- Slider Widget Kullanımı.
-- OutlinedButton ve RotatedBox Widgetleri Kullanımı.
-- Sayfalar Arası Geçiş (Navigator Kavramı).
-- Sayfalar Arası Veri Transferi.
-- Extract Widget ve Extract Method Kavramı.
+- Using GestureDetector Widget.
+- Using Slider Widget.
+- Using OutlinedButton and RotatedBox Widgets.
+- Switching Between Pages (Navigator Concept).
+- Data Transfer Between Pages.
+- Extract Widget and Extract Method Concept.
 
-gibi konuları ele alan bir uygulamadır.
+It is an application that deals with topics such as.
 
 <!---       <img src="">     --->   
 
