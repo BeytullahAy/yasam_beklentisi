@@ -4,7 +4,7 @@
 
 The application called Life Expectancy is an application developed for Android tablet systems that does not calculate an estimated life expectancy after obtaining 5 different types of data from the user. 
 
-## İÇERİĞİ
+## CONTENT
 
 - Using GestureDetector Widget.
 - Using Slider Widget.
